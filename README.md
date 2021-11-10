@@ -1,2 +1,2 @@
 # SEIR-model
-Code to estimate SIER model for Cantonal COVID data
+Code to estimate SEIR model for Cantonal COVID data
